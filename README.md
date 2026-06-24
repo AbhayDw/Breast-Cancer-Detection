@@ -27,6 +27,8 @@ Given diagnostic measurements of a breast mass, predict whether the tumor is ben
 * M → Malignant
 
 ---
+## 🚀 Live Demo
+https://huggingface.co/spaces/abhay200666/breast-cancer-detection
 
 ## 📊 Dataset Features
 
